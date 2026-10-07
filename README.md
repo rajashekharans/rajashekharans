@@ -1,4 +1,4 @@
-### Hi there 👋 I am Raj Soundrarajan.
+### Hi there 👋 I am Raj Naidu.
 
 <!--
 **rajashekharans/rajashekharans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
